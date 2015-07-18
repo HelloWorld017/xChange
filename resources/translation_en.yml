@@ -1,0 +1,24 @@
+#Khinenw's English Translation
+DOUBLE_TAP_TO_EXCHANGE: Double tap to exchange %s1 to %s2!
+
+NO_PERMISSION_CREATE: "You're not allowed to create exchange markets!"
+NO_PERMISSION_DESTROY: "You're not allowed to destroy exchange markets!"
+NO_PERMISSION_USE: "You're not allowed to use exchange markets!"
+
+NOT_YOUR_EXCHANGE: "This market is not yours!"
+EXCHANGE_DESTROYED: "Successfully destroyed!"
+
+FROM_NOT_FOUND: "From item doesn't exists!"
+TO_NOT_FOUND: "To item doesn't exists!"
+
+EXCHANGE: "[EXCHANGE]"
+
+ITEM_FROM: "%s1"
+ITEM_TO: "-> %s1"
+
+TO: "↓"
+
+INSUFFICIENT_ITEM: "You don't have items!"
+INSUFFICIENT_INVENTORY: "Your inventory is insufficient!"
+
+EXCHANGED: "*Successfully exchanged :)"

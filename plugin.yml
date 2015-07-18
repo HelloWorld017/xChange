@@ -1,0 +1,24 @@
+#Khinenw's xChange
+name: xChange
+author: Khinenw
+version: "0.0.1 alpha"
+description: "An personal item exchanger"
+main: Khinenw\ExchangeItem\ExchangeItem
+api: 1.12.0
+
+permissions:
+  exchange.*:
+    description: "The permission for using features of exchange markets."
+    default: true
+    children:
+      exchange.use:
+        default: true
+        description: "The permission for using exchange markets."
+
+      exchange.create:
+        default: op
+        description: "The permission for creating exchange markets."
+
+      exchange.destroy:
+        default: op
+        description: "The permission for destroying exchange markets."

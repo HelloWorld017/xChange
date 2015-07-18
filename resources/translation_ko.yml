@@ -1,0 +1,24 @@
+#Khinenw's Korean Translation
+DOUBLE_TAP_TO_EXCHANGE: "%s1을 %s2로 바꾸시려면 한번 더 눌러주세요!"
+
+NO_PERMISSION_CREATE: "당신은 교환 마켓을 생성하실 수 없습니다!"
+NO_PERMISSION_DESTROY: "당신은 교환 마켓을 제거하실 수 없습니다!"
+NO_PERMISSION_USE: "당신은 교환 마켓을 사용하실 수 없습니다!"
+
+NOT_YOUR_EXCHANGE: "이 마켓은 당신의 것이 아닙니다!"
+EXCHANGE_DESTROYED: "제거되었습니다!"
+
+FROM_NOT_FOUND: "교환 대상인 아이템이 존재하지 않습니다!"
+TO_NOT_FOUND: "교환 결과인 아이템이 존재하지 않습니다!"
+
+EXCHANGE: "[교환 마켓]"
+
+ITEM_FROM: "%s1"
+ITEM_TO: "-> %s1"
+
+TO: "↓"
+
+INSUFFICIENT_ITEM: "당신은 교환 대상인 아이템을 가지고 있지 않습니다!"
+INSUFFICIENT_INVENTORY: "인벤토리가 부족합니다!"
+
+EXCHANGED: "*성공적으로 교환되었습니다 :)"
